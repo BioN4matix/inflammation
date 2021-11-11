@@ -1,0 +1,4 @@
+analysis steps:
+1. data cleaning
+2. initial data exolration
+
