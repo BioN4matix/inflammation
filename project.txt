@@ -1,3 +1,5 @@
 some initial data analysis over time after surgery.
 Jane is data engineer and sammit is a statician.
 We will need a data scientist to help summit implement PCA and visualization.
+The data scientist will probably need python skill and be able to use matplotlib and plotnin.
+A bonus is if they can do version control.
